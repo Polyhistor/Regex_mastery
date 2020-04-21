@@ -34,7 +34,7 @@ let newData = data3.map(name => {
     console.log(name.replace(/(\w+), (\w+)/, "$2 $1"))
 })
 
-// a generic password regex
+// a generic password regex - could be improved
 
 let password="N2RN3/>zvd"
 
